@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\\uD559\uC2B5\uC6A9C#\uCF54\uB4DC\\ConsoleRPG24\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\2_2_24Group_ConsoleRPG\\ConsoleRPG24\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BC495328-2C0F-4177-B6F6-210548824D6B}|ConsoleRPG24\\ConsoleRPG24.csproj|d:\\\uD559\uC2B5\uC6A9c#\uCF54\uB4DC\\consolerpg24\\consolerpg24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC495328-2C0F-4177-B6F6-210548824D6B}|ConsoleRPG24\\ConsoleRPG24.csproj|c:\\users\\user\\2_2_24group_consolerpg\\consolerpg24\\consolerpg24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC495328-2C0F-4177-B6F6-210548824D6B}|ConsoleRPG24\\ConsoleRPG24.csproj|solutionrelative:consolerpg24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\\uD559\uC2B5\uC6A9C#\uCF54\uB4DC\\ConsoleRPG24\\ConsoleRPG24\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\2_2_24Group_ConsoleRPG\\ConsoleRPG24\\ConsoleRPG24\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleRPG24\\Program.cs",
-              "ToolTip": "D:\\\uD559\uC2B5\uC6A9C#\uCF54\uB4DC\\ConsoleRPG24\\ConsoleRPG24\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\2_2_24Group_ConsoleRPG\\ConsoleRPG24\\ConsoleRPG24\\Program.cs",
               "RelativeToolTip": "ConsoleRPG24\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwYAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-06T05:48:58.624Z",
               "EditorCaption": ""

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\학습용C#코드\\ConsoleRPG24\\ConsoleRPG24\\ConsoleRPG24.csproj",
+      "projectUniqueName": "C:\\Users\\user\\2_2_24Group_ConsoleRPG\\ConsoleRPG24\\ConsoleRPG24\\ConsoleRPG24.csproj",
       "projectName": "ConsoleRPG24",
-      "projectPath": "D:\\학습용C#코드\\ConsoleRPG24\\ConsoleRPG24\\ConsoleRPG24.csproj",
+      "projectPath": "C:\\Users\\user\\2_2_24Group_ConsoleRPG\\ConsoleRPG24\\ConsoleRPG24\\ConsoleRPG24.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\학습용C#코드\\ConsoleRPG24\\ConsoleRPG24\\obj\\",
+      "outputPath": "C:\\Users\\user\\2_2_24Group_ConsoleRPG\\ConsoleRPG24\\ConsoleRPG24\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
